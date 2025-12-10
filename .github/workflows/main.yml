@@ -26,15 +26,3 @@ jobs:
       #        git add .
       #        git commit -m "KhoiTao"
       #        git push -u origin master
-
-      #2
-      #       git add .github/workflows/main.yml
-      #       git commit -m "Add CI workflow"
-      #       git push origi master
-
-
-#Push file thuong
-#     git add .
-# Hoac: git add ten_file_cu_the.java
-#     git commit -m "Mô tả"
-#     git push origin master
