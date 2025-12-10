@@ -1,5 +1,3 @@
-package DeThi02;
-
 public class De2 {
     public String diemTrungBinh(double diem) {
         if (diem < 0 || diem > 10) {
